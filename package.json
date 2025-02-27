@@ -1,0 +1,24 @@
+{
+  "name": "chikunimai-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thlon157-YuiChan/ChikuniMai-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Thlon157-YuiChan/ChikuniMai-Bot/issues"
+  },
+  "homepage": "https://github.com/Thlon157-YuiChan/ChikuniMai-Bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
